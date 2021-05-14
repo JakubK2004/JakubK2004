@@ -42,5 +42,5 @@
 
 </details>
 
-[instagram]: https://instagram.com/jakub_kore
+[instagram]: https://instagram.com/jakub_koru
 [linkedin]: https://www.linkedin.com/in/jakub-korus-254bb516a
