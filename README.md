@@ -2,10 +2,8 @@
 
 ## I'm a Student, Learner, Aspiring Data Scientist!!
 
-#### I started programming at 12. So my first year in middle school in the Netherlands. 
- Besides that I started reading way more and exploring the world using the web.
- I learned about finance, business, programming and data.
- I'm doing courses on coursera and edx about data science, machine learning and python.
+I started programming at 12. So my first year in middle school in the Netherlands. Besides that I started reading way more and exploring the world using the web.
+I learned about finance, business, programming and data. I'm doing courses on coursera and edx about data science, machine learning and python.
 
 - 🔭 Aiming to sometime create my own company!
 - 🌱 I’m currently learning everything but mainly stuff surrouding Data Science 🤣
