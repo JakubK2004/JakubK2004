@@ -39,8 +39,7 @@ Future plans are below!
 
 
 <details>
-  <[![JakubK's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubK2004)](https://github.com/JakubK2004/github-readme-stats) />
-
+  <img align="left" alt="Jakubk's stats" width="26px" src="https://github-readme-stats.vercel.app/api?username=JakubK2004" />
 </details>
 
 [instagram]: https://instagram.com/jakub_koru
