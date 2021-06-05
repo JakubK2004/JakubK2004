@@ -39,7 +39,7 @@ Future plans are below!
 
 
 <details>
-  <img align="left" alt="Jakub's GitHub Stats" src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubK2004)](https://github.com/JakubK2004/github-readme-stats) />
+  <[![JakubK's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubK2004)](https://github.com/JakubK2004/github-readme-stats) />
 
 </details>
 
