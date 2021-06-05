@@ -39,9 +39,7 @@ Future plans are below!
 
 
 <details>
-  <[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubK2004)](https://github.com/JakubK2004/github-readme-stats) />
-
-  <img align="left" alt="Jakub's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JakubK2004&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jakub's GitHub Stats" src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubK2004)](https://github.com/JakubK2004/github-readme-stats) />
 
 </details>
 
