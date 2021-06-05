@@ -39,7 +39,7 @@ Future plans are below!
 
 
 <details>
-  <img align="left" alt="Jakubk's stats" width="250px" src="https://github-readme-stats.vercel.app/api?username=JakubK2004" />
+  <img align="left" alt="Jakubk's stats" width="600px" src="https://github-readme-stats.vercel.app/api?username=JakubK2004" />
 </details>
 
 [instagram]: https://instagram.com/jakub_koru
