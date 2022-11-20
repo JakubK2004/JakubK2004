@@ -1,16 +1,15 @@
-### Hi there, Jakub here! 👋
+### Hi there!
 
-## I'm a Student, Learner, Aspiring Data Scientist!!
+## I'm a Student, Lifelong Learner, Aspiring Entrepreneur.
 
-I started programming at 12. So my first year of middle school in the Netherlands. Besides that I started reading way more and exploring the world using the web.
-I learned about finance, business, programming and data. I'm doing courses on coursera and edx about data science, machine learning and python.
-Future plans are below!
+I started programming at 12. Started with C++, it gave me PTSD. Did web-dev, hated moving the pixels. Settled on Python Because I like snakes.    
 
-- 🔭 Aiming to sometime create my own company!
-- 🌱 I’m currently learning everything but mainly stuff surrouding Data Science 🤣
-- 👯 Love reading, exercising and learning!
-- 🥅 2021 Goals: Do more projects and network with people!
-- ⚡ Fun fact: I started this programming journey at 12
+Core ideas I subscribe to. 
+- Unscripted Entrepreneurschip (Thanks MJ).
+- Succes is the progresieve realisaiton of a worthy ideal.
+- Why write it in 2 lines if one would suffice?
+- Planning isn't overhead, it saves time. 
+- If you can't explain it to somebody, you don't understand it. 
 
 ### Connect with me:
 
