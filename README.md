@@ -41,5 +41,4 @@ Core ideas I subscribe to.
   <img align="left" alt="Jakubk's stats" width="600px" src="https://github-readme-stats.vercel.app/api?username=JakubK2004" />
 </details>
 
-[instagram]: https://instagram.com/jakub_koru
 [linkedin]: https://www.linkedin.com/in/jakub-korus-254bb516a
