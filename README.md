@@ -2,7 +2,7 @@
 
 ## I'm a Student, Lifelong Learner, Aspiring Entrepreneur.
 
-I started programming at 12. Started with C++, it gave me PTSD. Did web-dev, hated moving the pixels. Settled on Python Because I like snakes.    
+I started programming at 12. Started with C++, it gave me PTSD. Did web-dev, hated moving the pixels. Settled on Python because I like snakes.    
 
 Core ideas I subscribe to. 
 - Unscripted Entrepreneurschip (Thanks MJ).
