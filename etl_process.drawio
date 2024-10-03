@@ -56,7 +56,7 @@
           <mxGeometry x="160" y="450" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PkW1fspWSgTxLqBnO6iF-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;News Database&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="PkW1fspWSgTxLqBnO6iF-27">
-          <mxGeometry x="180" y="190" width="110" height="110" as="geometry" />
+          <mxGeometry x="180" y="240" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PkW1fspWSgTxLqBnO6iF-14" value="ETL Flow" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;" vertex="1" parent="PkW1fspWSgTxLqBnO6iF-27">
           <mxGeometry width="790" height="490" as="geometry" />
@@ -133,8 +133,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PkW1fspWSgTxLqBnO6iF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PkW1fspWSgTxLqBnO6iF-27" source="PkW1fspWSgTxLqBnO6iF-33" target="PkW1fspWSgTxLqBnO6iF-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PkW1fspWSgTxLqBnO6iF-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Logging&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;" vertex="1" parent="PkW1fspWSgTxLqBnO6iF-27">
-          <mxGeometry x="170" y="-30" width="130" height="70" as="geometry" />
+          <mxGeometry x="170" y="-80" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PkW1fspWSgTxLqBnO6iF-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Loggs&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="PkW1fspWSgTxLqBnO6iF-27">
+          <mxGeometry x="180" y="80" width="110" height="115" as="geometry" />
         </mxCell>
         <mxCell id="PkW1fspWSgTxLqBnO6iF-30" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="390" y="100" width="50" height="60" as="geometry" />
